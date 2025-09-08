@@ -1,0 +1,43 @@
+{
+  "SCA000818314": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Michael Höflmair, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Walter Calis, Vennewatersweg 30a,1935 AS Egmond-Binnen, Niederlande",
+    "price": "4.000 €",
+    "description": "Hersteller: Can Am<br>Typ: Renegade 1000 XXC <br>Fahrgestelnummer: 3JBMXLP19CJ002508 <br>Erstzulassung: 03/2015 <br>KM laut Vorbesitzer: 18.023 km <br>Leistung: 61 kW (83 PS)<br>Hubraum: 976 cm³<br>Farbe: Schwarz <br><br> Viele Extras; Originalteile vorhanden<br>Das Quad ist voll funktionsfähig, kein Umfaller oder Unfall.<br> Niederländische Zulassung.Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Walter Calis<br>Vennewatersweg 30a<br>1935 AS Egmond-Binnen<br>Niederlande<br>Telefon: +31 653401207",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "17-09-2025",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Vennewatersweg 30a",
+      "postal_code": "1935 AS",
+      "city": "Egmond-Binnen",
+      "country": "Niederlande"
+    }
+  }
+}
